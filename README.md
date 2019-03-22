@@ -4,7 +4,7 @@ This Notebook will help predict Invasive Ductal Carcinoma(IDC) from Breast Histo
 ### Getting Started
 You will first need to download the Breast Histopathology Images Data Set to run this Jupyter Notebook.
 The data can be found [here](https://www.kaggle.com/paultimothymooney/breast-histopathology-images).
-Unzip and put all the data inside a folder named 'data', in the same file path Directory as the Jupyter Notebook, and you are good to go. I will create a folder named 'data', and leave it empty, to help you set it up easily.
+Unzip and put all the data inside a folder named 'data', in the same file path Directory as the Jupyter Notebook, and you are good to go. I will create a folder named 'data', and leave it empty (well github won't let me do that so I will have a redundant file in the folder), to help you set it up easily.
 
 ### Installing
 I haven't really used any exotic libraries, so you wouldn't need to install anything other than the basics.
