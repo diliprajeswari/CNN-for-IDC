@@ -1,5 +1,5 @@
 # Automatic Detection of Invasive Ductal Carcinoma
-This Notebook will help predict Invasive Ductal Carcinoma(IDC) from Breast Histopathology Image patches taken from Whole Slide Images.
+This Notebook will help predict Invasive Ductal Carcinoma(IDC) from Breast Histopathology Image patches taken from Whole Slide Images(WSI) by using Convolutional neural network(CNN).
 
 ### Getting Started
 You will first need to download the Breast Histopathology Images Data Set to run this Jupyter Notebook.
