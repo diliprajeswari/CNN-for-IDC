@@ -20,6 +20,6 @@ The model weights for the trained Convolutional Neural Network can be found in '
 
 
 ### Final Note
-I have done my best to help you get started with my Jupyter Notebook. If I missed something, I apologies for my clumsiness. Anyway, have fun!!!
+I have done my best to help you get started with my Jupyter Notebook. If I missed something, I apologies for my clumsiness and hope you can figure it out, or just contact me and I'll be more than happy to help you out. Anyway, have fun!!!
 
 Let's get started then...
